@@ -9,22 +9,22 @@ int c = int.Parse(Console.ReadLine());
 if (a > b)
     {
         if (a > c)
-        {
-            Console.WriteLine($"максимальное из этих чисел является {a}");
-        }
+            {
+                Console.WriteLine($"максимальное из этих чисел является {a}");
+            }
        else 
-        {
-            Console.WriteLine($"максимальное из этих чисел является {c}");
-        }
+            {
+                Console.WriteLine($"максимальное из этих чисел является {c}");
+            }
     }
 else 
     {
         if (b > c)
-        {
-            Console.WriteLine($"максимальное из этих чисел является {b}");
-        }
+            {
+                Console.WriteLine($"максимальное из этих чисел является {b}");
+            }
         else 
-        {
-            Console.WriteLine($"максимальное из этих чисел является {c}");
-        }
+            {
+                Console.WriteLine($"максимальное из этих чисел является {c}");
+            }
     }
