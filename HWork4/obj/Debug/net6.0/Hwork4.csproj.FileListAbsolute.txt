@@ -1,0 +1,15 @@
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.csproj.AssemblyReference.cache
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.AssemblyInfoInputs.cache
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.AssemblyInfo.cs
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.csproj.CoreCompileInputs.cache
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\bin\Debug\net6.0\Hwork4.exe
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\bin\Debug\net6.0\Hwork4.deps.json
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\bin\Debug\net6.0\Hwork4.runtimeconfig.json
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\bin\Debug\net6.0\Hwork4.dll
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\bin\Debug\net6.0\Hwork4.pdb
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.dll
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\refint\Hwork4.dll
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.pdb
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\Hwork4.genruntimeconfig.cache
+C:\Users\HmSv\Desktop\gb C#\050823 Знакомство с яз прог С#(семинары)\Hwork4\obj\Debug\net6.0\ref\Hwork4.dll
